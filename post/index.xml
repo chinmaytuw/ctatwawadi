@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Chinmay&#39;s Data Science Portfolio</title>
-    <link>https://example.com/post/</link>
+    <link>https://chinmaytuw.github.io/ctatwawadi/post/</link>
     <description>Recent content in Projects on Chinmay&#39;s Data Science Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://chinmaytuw.github.io/ctatwawadi/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Project 2: Titanic: Machine Learning from Disaster</title>
-      <link>https://example.com/post/project-2/</link>
+      <link>https://chinmaytuw.github.io/ctatwawadi/post/project-2/</link>
       <pubDate>Mon, 10 Apr 2017 11:00:59 -0400</pubDate>
       
-      <guid>https://example.com/post/project-2/</guid>
+      <guid>https://chinmaytuw.github.io/ctatwawadi/post/project-2/</guid>
       <description>Housing Prices Project   The Challenge The sinking of the Titanic is one of the most infamous shipwrecks in history.
 On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg. Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew.
 While there was some element of luck involved in surviving, it seems some groups of people were more likely to survive than others.</description>
@@ -20,10 +20,10 @@ While there was some element of luck involved in surviving, it seems some groups
     
     <item>
       <title>Project I: Housing Prices Project</title>
-      <link>https://example.com/post/project-1/</link>
+      <link>https://chinmaytuw.github.io/ctatwawadi/post/project-1/</link>
       <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
       
-      <guid>https://example.com/post/project-1/</guid>
+      <guid>https://chinmaytuw.github.io/ctatwawadi/post/project-1/</guid>
       <description>Housing Prices Project   Housing Prices Project Competition Description:   Ask a home buyer to describe their dream house, and they probably won&amp;rsquo;t begin with the height of the basement ceiling or the proximity to an east-west railroad. But this playground competition&amp;rsquo;s dataset proves that much more influences price negotiations than the number of bedrooms or a white-picket fence.
   With 79 explanatory variables describing (almost) every aspect of residential homes in Ames, Iowa, this competition challenges you to predict the final price of each home.</description>
     </item>

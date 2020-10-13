@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>scene on Chinmay&#39;s Data Science Portfolio</title>
-    <link>https://example.com/tags/scene/</link>
+    <link>https://chinmaytuw.github.io/ctatwawadi/tags/scene/</link>
     <description>Recent content in scene on Chinmay&#39;s Data Science Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 09 Apr 2017 10:58:08 -0400</lastBuildDate><atom:link href="https://example.com/tags/scene/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 09 Apr 2017 10:58:08 -0400</lastBuildDate><atom:link href="https://chinmaytuw.github.io/ctatwawadi/tags/scene/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Project I: Housing Prices Project</title>
-      <link>https://example.com/post/project-1/</link>
+      <link>https://chinmaytuw.github.io/ctatwawadi/post/project-1/</link>
       <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
       
-      <guid>https://example.com/post/project-1/</guid>
+      <guid>https://chinmaytuw.github.io/ctatwawadi/post/project-1/</guid>
       <description>Housing Prices Project   Housing Prices Project Competition Description:   Ask a home buyer to describe their dream house, and they probably won&amp;rsquo;t begin with the height of the basement ceiling or the proximity to an east-west railroad. But this playground competition&amp;rsquo;s dataset proves that much more influences price negotiations than the number of bedrooms or a white-picket fence.
   With 79 explanatory variables describing (almost) every aspect of residential homes in Ames, Iowa, this competition challenges you to predict the final price of each home.</description>
     </item>
